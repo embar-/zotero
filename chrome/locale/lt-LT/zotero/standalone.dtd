@@ -49,7 +49,7 @@
 
 
 <!ENTITY viewMenu.label "Rodymas">
-<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewMenu.accesskey "d">
 <!ENTITY layout.label "Išdėstymas">
 <!ENTITY standardView.label "Įprastas rodymas">
 <!ENTITY stackedView.label "Straipsnio informacija apačioje">
@@ -96,7 +96,7 @@
 <!ENTITY helpReportErrors.accesskey "r">
 
 <!ENTITY debugOutputLogging.label "Derinimo pranešimų išvedimas">
-<!ENTITY debugOutputLogging.accesskey "L">
+<!ENTITY debugOutputLogging.accesskey "D">
 <!ENTITY debugOutputLogging.submit "Siųsti išvedimą">
 <!ENTITY debugOutputLogging.view "Rodyti išvedimą">
 <!ENTITY debugOutputLogging.clear "Išvalyti išvedimą">
